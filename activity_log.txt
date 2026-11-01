@@ -1,0 +1,65 @@
+2026-10-24 11:51:06 | president | FAILED_LOGIN | Login failed: username 'president' not found.
+2026-10-24 11:51:49 | SYSTEM | INITIALIZE_DATABASE | Created records.xlsx with default sample data and schemas.
+2026-10-24 11:51:50 | 25F-DS-052 | REJECTED_SUBMISSION_FORM_CLOSED | Submission to form FORM-003 rejected: This form is closed.
+2026-10-24 11:51:52 | 25F-CS-052 | REJECTED_SUBMISSION_INVALID_ROLL | Invalid roll number format: '25F-CS-052'. Expected format like 25F-DS-052 (Data Science only).
+2026-10-24 11:51:52 | 25F-DS-999 | REJECTED_SUBMISSION_INVALID_ROLL | Roll number '25F-DS-999' is not in the allowed university Data Science student list.
+2026-10-24 11:51:53 | 25F-DS-087 | SUBMIT_VOLUNTEER_FORM | Form FORM-001 submitted with Ref: VOL-20261024-D37A6
+2026-10-24 11:51:53 | 25F-DS-087 | REJECTED_SUBMISSION_DUPLICATE | Duplicate submission! Roll number 25F-DS-087 has already submitted this form.
+2026-10-24 11:51:53 | president | LOGIN | User logged in successfully with role 'cabinet'.
+2026-10-24 11:52:30 | 25F-DS-052 | REJECTED_SUBMISSION_FORM_CLOSED | Submission to form FORM-003 rejected: This form is closed.
+2026-10-24 11:52:31 | 25F-CS-052 | REJECTED_SUBMISSION_INVALID_ROLL | Invalid roll number format: '25F-CS-052'. Expected format like 25F-DS-052 (Data Science only).
+2026-10-24 11:52:31 | 25F-DS-999 | REJECTED_SUBMISSION_INVALID_ROLL | Roll number '25F-DS-999' is not in the allowed university Data Science student list.
+2026-10-24 11:52:31 | 25F-DS-087 | REJECTED_SUBMISSION_DUPLICATE | Duplicate submission! Roll number 25F-DS-087 has already submitted this form.
+2026-10-24 11:52:32 | president | LOGIN | User logged in successfully with role 'cabinet'.
+2026-10-24 11:53:03 | 25F-DS-052 | REJECTED_SUBMISSION_FORM_CLOSED | Submission to form FORM-003 rejected: This form is closed.
+2026-10-24 11:53:03 | 25F-CS-052 | REJECTED_SUBMISSION_INVALID_ROLL | Invalid roll number format: '25F-CS-052'. Expected format like 25F-DS-052 (Data Science only).
+2026-10-24 11:53:03 | 25F-DS-999 | REJECTED_SUBMISSION_INVALID_ROLL | Roll number '25F-DS-999' is not in the allowed university Data Science student list.
+2026-10-24 11:53:04 | 25F-DS-023 | SUBMIT_VOLUNTEER_FORM | Form FORM-001 submitted with Ref: VOL-20261024-4757F
+2026-10-24 11:53:04 | 25F-DS-023 | REJECTED_SUBMISSION_DUPLICATE | Duplicate submission! Roll number 25F-DS-023 has already submitted this form.
+2026-10-24 11:53:04 | president | LOGIN | User logged in successfully with role 'cabinet'.
+2026-10-24 11:55:57 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-10-24 11:56:57 | 25F-DS-052 | REJECTED_SUBMISSION_FORM_CLOSED | Submission to form FORM-003 rejected: This form is closed.
+2026-10-24 11:56:58 | 25F-CS-052 | REJECTED_SUBMISSION_INVALID_ROLL | Invalid roll number format: '25F-CS-052'. Expected format like 25F-DS-052 (Data Science only).
+2026-10-24 11:56:58 | 25F-DS-999 | REJECTED_SUBMISSION_INVALID_ROLL | Roll number '25F-DS-999' is not in the allowed university Data Science student list.
+2026-10-24 11:56:58 | 25F-DS-023 | SUBMIT_VOLUNTEER_FORM | Form FORM-001 submitted with Ref: VOL-20261024-A2C36
+2026-10-24 11:56:58 | 25F-DS-023 | REJECTED_SUBMISSION_DUPLICATE | Duplicate submission! Roll number 25F-DS-023 has already submitted this form.
+2026-10-24 11:56:59 | president | LOGIN | User logged in successfully with role 'cabinet'.
+2026-10-27 09:53:31 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-10-28 21:58:50 | 25F-DS-052 | REJECTED_SUBMISSION_FORM_CLOSED | Submission to form FORM-003 rejected: This form is closed.
+2026-10-28 21:58:52 | 25F-CS-052 | REJECTED_SUBMISSION_INVALID_ROLL | Invalid roll number format: '25F-CS-052'. Expected format like 25F-DS-052 (Data Science only).
+2026-10-28 21:58:53 | 25F-DS-999 | REJECTED_SUBMISSION_INVALID_ROLL | Roll number '25F-DS-999' is not in the allowed university Data Science student list.
+2026-10-28 21:58:57 | 25F-DS-023 | SUBMIT_VOLUNTEER_FORM | Form FORM-001 submitted with Ref: VOL-20261028-19265
+2026-10-28 21:58:58 | 25F-DS-023 | REJECTED_SUBMISSION_DUPLICATE | Duplicate submission! Roll number 25F-DS-023 has already submitted this form.
+2026-10-28 21:58:58 | president | LOGIN | User logged in successfully with role 'cabinet'.
+2026-10-30 20:22:14 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-10-30 20:35:06 | 25F-DS-089 | SUBMIT_VOLUNTEER_FORM | Form FORM-001 submitted with Ref: VOL-20261030-AD930
+2026-11-01 22:57:50 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-11-01 22:59:32 | admin | LOGOUT | User logged out.
+2026-11-01 23:06:01 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-11-01 23:09:17 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-11-01 23:37:41 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-11-01 23:37:41 | admin | ADD_EVENT | Created event Smoke (2026-12-01)
+2026-11-01 23:37:41 | admin | UPDATE_EVENT | Updated event TST-999
+2026-11-01 23:37:50 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-11-01 23:37:50 | admin | UNDO_ACTION | Undid action: Undo update event TST-999
+2026-11-01 23:37:51 | admin | UNDO_ACTION | Undid action: Undo add event Smoke
+2026-11-01 23:37:58 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-11-01 23:37:58 | admin | ADD_EVENT | Created event Smoke (2026-12-01)
+2026-11-01 23:37:58 | admin | UPDATE_EVENT | Updated event TST-999
+2026-11-01 23:37:59 | admin | MARK_ATTENDANCE | Marked attendance for 25F-DS-001 in event Smoke
+2026-11-01 23:37:59 | admin | DELETE_ATTENDANCE | Deleted attendance record ATN-20261101233758-001
+2026-11-01 23:37:59 | admin | DELETE_EVENT | Deleted event TST-999
+2026-11-01 23:38:00 | admin | UNDO_ACTION | Undid action: Undo delete event TST-999
+2026-11-01 23:38:00 | admin | UNDO_ACTION | Undid action: Undo delete attendance ATN-20261101233758-001
+2026-11-01 23:38:01 | admin | UNDO_ACTION | Undid action: Undo attendance ATN-20261101233758-001
+2026-11-01 23:38:01 | admin | UNDO_ACTION | Undid action: Undo update event TST-999
+2026-11-01 23:38:01 | admin | UNDO_ACTION | Undid action: Undo add event Smoke
+2026-11-01 23:42:37 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-11-01 23:45:14 | admin | ADD_MEMBER | Added member Ahmed (25F-DS-041)
+2026-11-01 23:45:29 | admin | DELETE_MEMBER | Deleted member MEM-011
+2026-11-01 23:48:12 | admin | ADD_MEMBER | Added member Ahmed (25F-DS-002)
+2026-11-02 00:04:58 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-11-02 00:08:00 | admin | LOGIN | User logged in successfully with role 'admin'.
+2026-11-02 00:10:30 | admin | MARK_ATTENDANCE | Marked attendance for 25F-DS-006 in event DUET AI & Data Summit
+2026-11-02 00:12:46 | admin | ASSIGN_TASK | Assigned task to volunteer 25F-DS-003 for Data Science Bootcamp 2026
+2026-11-02 00:13:10 | admin | UPDATE_ASSIGNMENT | Updated assignment ASN-63524E status to In Progress

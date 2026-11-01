@@ -1,0 +1,11 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+python-multipart>=0.0.9
+streamlit>=1.32.0
+requests>=2.31.0
+openpyxl>=3.1.2
+pandas>=2.2.0
+pillow>=10.2.0
+pytest>=8.0.0
+httpx2>=0.1.0
+vercel-blob>=0.5.0
