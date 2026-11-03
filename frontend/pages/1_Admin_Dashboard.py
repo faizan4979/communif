@@ -1,6 +1,11 @@
 """
 Standalone Admin Dashboard Page for Streamlit.
 """
+import os
+import sys
+
+# Streamlit Cloud runs this file with only frontend/ on sys.path; add the repo root.
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import streamlit as st
 from frontend.ui_components import apply_custom_theme, render_header, render_sidebar
