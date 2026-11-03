@@ -10,6 +10,10 @@ import sys
 # Streamlit Cloud runs this file with only frontend/ on sys.path; add the repo root.
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+import requests
+import streamlit as st
+from PIL import Image
+
 from frontend.config import BACKEND_URL
 from frontend.ui_components import apply_custom_theme, render_header, render_sidebar
 from frontend.student_view import render_student_portal
